@@ -1,0 +1,27 @@
+body{
+    font-family: 'Calibri', 'Trebuchet MS', sans-serif;
+}
+header{
+    background-color:rgba(155, 163, 240, 0.733);
+    line-height: 2;
+    text-align: center;
+}
+.item-detail{
+    font-weight: bold;
+    font-style: italic;
+    color: rgba(1, 14, 129, 0.733);
+}
+footer{
+    background-color: rgba(1, 14, 129, 0.733);
+    color: #ddd;
+    font-size: 24px;
+    text-align: center;
+}
+.img-link{
+    width: 20px;
+    height: 20px;
+}
+h1, h2{
+    background-color: rgba(1, 14, 129, 0.733);
+    letter-spacing: 0.5em;
+}
