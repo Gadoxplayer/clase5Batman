@@ -1,5 +1,7 @@
 body{
     font-family: 'Calibri', 'Trebuchet MS', sans-serif;
+    background-image: url('../img/logoBatmanMod.jpg');
+    
 }
 header{
     background-color:rgba(155, 163, 240, 0.733);
@@ -24,4 +26,7 @@ footer{
 h1, h2{
     background-color: rgba(1, 14, 129, 0.733);
     letter-spacing: 0.5em;
+}
+section{
+    background-color:rgba(187, 192, 233, 0.733);
 }
